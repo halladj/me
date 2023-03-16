@@ -10,4 +10,5 @@
 * [Docker Storage ( PART 2 ) Volumes 1-1](https://github.com/halladj/me/blob/main/zettelkasten/20230312192939.md#docker-storage--part-2--volumes)
 * [Docker Storage ( PART 2 ) Volumes 1-2](https://github.com/halladj/me/blob/main/zettelkasten/20230312200654.md)
 * [Docker Storage ( PART 3 ) Bind Mounts](https://github.com/halladj/me/blob/main/zettelkasten/20230313180122.md)
+* [Docker Storage ( PART 4 ) Bind Mounts](https://github.com/halladj/me/blob/main/zettelkasten/20230316203823.md)
 
