@@ -14,3 +14,4 @@
 * [Docker Storage ( PART 5 ) Storage Drivers:](https://github.com/halladj/me/blob/main/zettelkasten/20230325115723.md)
 * [BOOST episode 10:](https://github.com/halladj/me/blob/main/zettelkasten/20230326104244.md)
 * [BOOST episode 10 (part 2):](https://github.com/halladj/me/blob/main/zettelkasten/20230328100823.md)
+* [PL/SQL(3-1), Data Types](https://github.com/halladj/me/blob/main/zettelkasten/20230331094912.md)
