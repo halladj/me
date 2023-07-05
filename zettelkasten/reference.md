@@ -18,3 +18,4 @@
 * [PL/SQL(3-1), Data Types](https://github.com/halladj/me/blob/main/zettelkasten/20230331094912.md)
 * [PL/SQL(4-1), Control Statements](https://github.com/halladj/me/blob/main/zettelkasten/20230402011822.md)
 * [Docker Networking: Overview](https://github.com/halladj/me/blob/main/zettelkasten/20230406103121.md)
+* [Minimal Spannig-Tree algorithm](https://github.com/halladj/me/blob/main/zettelkasten/20230506215523.md)
